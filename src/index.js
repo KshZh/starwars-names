@@ -4,6 +4,7 @@ const names = [
   "4-LOM",
   "Aayla Secura",
   "Admiral Ackbar",
+  "Admiral Ackbar",
   "Admiral Ackbar"
 ];
 

@@ -1,15 +1,16 @@
 {
   "name": "starwars-names-kshzh",
-  "version": "1.1.0-beta.0",
+  "version": "0.0.0-development",
   "description": "Get a random Star Wars name",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KshZh/starwars-names.git"
+    "url": "https://github.com/KshZh/starwars-names"
   },
   "author": "KshZh",
   "license": "MIT",
@@ -19,5 +20,9 @@
   "homepage": "https://github.com/KshZh/starwars-names#readme",
   "dependencies": {
     "unique-random-array": "^3.0.0"
+  },
+  "devDependencies": {
+    "semantic-release": "^18.0.1",
+    "semantic-release-cli": "^5.4.4"
   }
 }
