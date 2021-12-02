@@ -1,6 +1,6 @@
 {
   "name": "starwars-names-kshzh",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Get a random Star Wars name",
   "main": "src/index.js",
   "type": "module",
