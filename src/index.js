@@ -3,6 +3,7 @@ import uniqueRandomArray from "unique-random-array";
 const names = [
   "4-LOM",
   "Aayla Secura",
+  "Admiral Ackbar",
   "Admiral Ackbar"
 ];
 
